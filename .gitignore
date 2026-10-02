@@ -1,0 +1,8 @@
+# Heavy standalone / duplicate files
+Aegis Guard - standalone.html
+uploads/
+.thumbnail
+
+# OS generated files
+.DS_Store
+Thumbs.db
